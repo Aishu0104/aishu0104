@@ -1,4 +1,4 @@
-![git_card](https://github.com/Aishu0104/aishu0104/assets/157719334/b87aa2c6-c3d9-4eb7-8483-ce6692a5bc42)
+![Uploading Untitled design.gif…]()
 
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate PharmaTech Enthusiast from India who loves to groove into Pharma along with Coding and designing..</h3>
