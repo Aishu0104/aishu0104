@@ -23,4 +23,4 @@ I'm currently pursuing a Bachelor's in Pharmacy at BITS Pilani. Alongside my aca
 
 I'm always eager to learn and collaborate on projects that blend creativity, technology, and social impact. Let's connect!
 
-[LinkedIn](www.linkedin.com/in/aishwarya-singh-k)
+[LinkedIn](www.linkedin.com/in/aishwarya-singh-k )
