@@ -1,27 +1,30 @@
-![git_card_3](https://github.com/Aishu0104/aishu0104/assets/157719334/efd6e34c-5476-4876-beea-b03cd7141ff8)
+### Hi, I'm Aishwarya 👋
 
-<h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">A passionate PharmaTech Enthusiast from India who loves to groove into Pharma along with Coding and designing..</h3>
+I'm currently pursuing a Bachelor's in Pharmacy at BITS Pilani. Alongside my academic journey, I'm passionate about graphic design, web development, and content creation. I have hands-on experience with tools like Figma, Canva, and Adobe Illustrator, and have contributed as a designer and content writer in diverse roles—from leading design teams at student organizations to creating engaging visuals for NGOs and tech clubs.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishu0104&label=Profile%20views&color=0e75b6&style=flat" alt="aishu0104" /> </p>
+---
 
-- 📫 How to reach me **f20231163@pilani.bits-pilani.ac.in**
+#### 🛠️ Technical Skills
 
-- 👯 I’m looking to collaborate on **Graphic Designing** and **Web Development**
-
-- 💻 Love exploring and making **new designs/artwork**
-
-- 📻 Music **calms my mind**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <!-- Design Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
+  <!-- Productivity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" alt="MS Word" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="MS Excel" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishu0104&show_icons=true&locale=en&layout=compact" alt="aishu0104" /></p>
+I'm always eager to learn and collaborate on projects that blend creativity, technology, and social impact. Let's connect!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishu0104&show_icons=true&locale=en" alt="aishu0104" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishu0104&" alt="aishu0104" /></p>
+[LinkedIn](www.linkedin.com/in/aishwarya-singh-k)
