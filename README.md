@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **f20231163@pilani.bits-pilani.ac.in**
 
-- 👯 I’m looking to collaborate on **Graphic Designing**
-
-- 🌱 I’m currently learning **Java, C, Graphic Designing**
+- 👯 I’m looking to collaborate on **Graphic Designing** and **Web Development**
 
 - 💻 Love exploring and making **new designs/artwork**
 
